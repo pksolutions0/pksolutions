@@ -1,0 +1,45 @@
+.contact-form > h2 {
+  text-align: center;
+}
+.contact-form > p {
+  text-align: center;
+}
+
+.form {
+  padding: 3% 20%;
+}
+
+input {
+  line-height: 2.4;
+  font-size: 14px;
+  padding: 2px 6px;
+  background-color: #f3f6f480;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  width: 300px;
+  margin-right: 5%;
+}
+
+label {
+  color: #4b5563;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 650px;
+  font-size: 14px;
+  padding: 2px 6px;
+  background-color: #f3f6f480;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+}
+.inputs-2 {
+  margin-left: 50px;
+}
+
+.smt-btn {
+  width: 100%;
+  padding: 2% 0;
+}

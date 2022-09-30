@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  text-decoration: none;
+  text-decoration: none;
+  list-style: none;
+  color: #1a2d43;
+  font-family: "Roboto Slab", serif;
+}
+
+/* Smoooth body scrolling  */
+html {
+  scroll-behavior: smooth;
+}
+
+/* roots */
+
+:root {
+  --side-padding: 0 5%;
+  --section-padding: 5% 5%;
+  --black: #000;
+  --white: #fff;
+  --white-light: #ffffffcc;
+  --border-radius: 15px;
+  --background-color: #080f20;
+  --primary-blue: #007aff;
+  --primary-violet: #4e15ed;
+  --primary-pink: #ff007b;
+  --gray: #ccc;
+  --light-background-white: #f7f7fb;
+  --text-color: #1b2d42;
+}
+
+body {
+  padding: 0.5%;
+}
