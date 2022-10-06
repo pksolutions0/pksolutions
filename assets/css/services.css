@@ -3,7 +3,7 @@
 /* services */
 .services {
   background-color: #080f20;
-  padding: var(--section-padding);
+  
 }
 .section_title p {
   color: #ff007b;
@@ -90,7 +90,7 @@
     width: 48%;
   }
   .row {
-    gap: 10px;
+    gap: 12px;
   }
 }
 @media screen and (max-width: 576px) {

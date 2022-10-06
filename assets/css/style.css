@@ -85,7 +85,6 @@ header {
 /* header end */
 /* landing-container start */
 .landing-container {
-  padding: var(--section-padding);
   text-align: center;
 }
 
@@ -159,7 +158,6 @@ header {
 /* service section start */
 
 .service-section {
-  padding: var(--section-padding);
   text-align: center;
 }
 .service-section > h2 {
@@ -425,7 +423,7 @@ header {
     grid-template-columns: repeat(2, 1fr);
   }
   .work-1.grid-2 {
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: 1fr;
   }
   .menu-list {
     display: none;
@@ -433,9 +431,57 @@ header {
 }
 
 @media only screen and (max-width: 500px) {
+  header {
+    margin-top: 35px;
+    height: 80px;
+  }
+  .logo-container > a > p > span {
+    height: 51px;
+    width: 52px;
+    font-size: 30px;
+  }
+  .logo-container > a > p {
+    font-size: 30px;
+  }
+  .landing-container {
+    padding: 10% 5% 15% 5%;
+  }
+
+  .landing-container > p {
+    font-size: 14px !important;
+  }
+  .main-h1-heading {
+    font-size: 32px;
+    margin: 6% 0;
+  }
+  .landing-section {
+    height: unset;
+  }
+  .landing-container > button {
+    margin-top: 10%;
+  }
+  .adds > img {
+    width: 90px;
+    height: 70px;
+  }
   .services-grid {
     grid-gap: 0;
     grid-template-columns: repeat(1, 1fr);
+  }
+  .media-work-1 {
+    grid-row: 1;
+  }
+  .media-work-2 {
+    grid-row: 2;
+  }
+  .work-1 {
+    margin-top: 20px;
+  }
+  .work-1-img > img {
+    height: unset;
+  }
+  .companies-container {
+    padding: 8%;
   }
   .service-section > p {
     font-weight: normal;
@@ -465,6 +511,7 @@ header {
   .tags-box.flex {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
   }
   .tags {
     border: 1px solid #b9b9b9;
@@ -475,14 +522,5 @@ header {
   }
   .last-work-text > p {
     text-align: center;
-  }
-  .main-h1-heading {
-    font-size: 35px;
-  }
-  .landing-section {
-    height: 450px;
-  }
-  .landing-container > p {
-    font-size: 18px !important;
   }
 }

@@ -72,7 +72,7 @@
         <div class="menu-icon"></div>
       </div>
     </header>
-    <div class="landing-container">
+    <div class="landing-container section-padding">
       <p>top class digital agency</p>
       <h1 class="main-h1-heading">
         We <span style="color: var(--primary-pink)">design</span> and
@@ -99,7 +99,7 @@
   <!-- strip section, end -->
 
   <!-- services section start -->
-  <section class="service-section" id="services">
+  <section class="service-section section-padding" id="services">
     <h2 class="main-heading">We help your business thrive</h2>
     <p class="main-heading-text">
       Transforming business challenges into impactful web- and mobile
@@ -177,7 +177,7 @@
   <!-- -----Portfolio section -->
   <!-- ------------------------ -->
 
-  <section class="portfolio-container padding" id="portfolio">
+  <section class="portfolio-container section-padding" id="portfolio">
     <h2 class="main-heading">What we already done</h2>
 
     <!-- ------------------------ -->
@@ -185,10 +185,10 @@
     <!-- ------------------------ -->
 
     <div class="work-1 grid grid-2">
-      <div class="work-1-img">
+      <div class="work-1-img ">
         <img src="./assets/images/work-1.jpg" alt="Best website development" />
       </div>
-      <div class="work-1-content">
+      <div class="work-1-content ">
         <h2 class="sub-heading">Rapid Auto shipping</h2>
         <p class="text">
           It help you to ship your vehicle on time at an affordable price. You
@@ -208,7 +208,7 @@
     <!-- ------------------------ -->
 
     <div class="work-1 grid grid-2">
-      <div class="work-1-content">
+      <div class="work-1-content media-work-2">
         <h2 class="sub-heading">Music Application</h2>
         <p class="text">
           Listen to Latest and Trending Bollywood Hindi songs online for free
@@ -223,7 +223,7 @@
         </div>
       </div>
 
-      <div class="work-1-img">
+      <div class="work-1-img media-work-1">
         <img src="./assets/images/work-2.jpg" alt="Best website development" />
       </div>
     </div>
@@ -233,10 +233,10 @@
     <!-- ------------------------ -->
 
     <div class="work-1 grid grid-2">
-      <div class="work-1-img">
+      <div class="work-1-img ">
         <img src="./assets/images/work-3.jpg" alt="Best website development" />
       </div>
-      <div class="work-1-content">
+      <div class="work-1-content ">
         <h2 class="sub-heading">E-Commerce Website</h2>
         <p class="text">
           the buying and selling of goods and services, or the transmitting of
@@ -292,7 +292,7 @@
   <!-- -----Pratners section -->
   <!-- ------------------------ -->
 
-  <section class="partners padding">
+  <section class="partners section-padding">
     <h2 class="main-heading">Technologies we master</h2>
     <!-- ------------------------ -->
     <!-- -----Companies --------- -->
@@ -300,9 +300,9 @@
 
     <div class="companies-container grid">
       <div class="companies-box grid-center"><i>Semrush</i></div>
-      <div class="companies-box grid-center"><i>Google analytics</i></div>
+      <div class="companies-box grid-center"><i>Google <br>Analytics</i></div>
       <div class="companies-box grid-center"><i>Wordpress</i></div>
-      <div class="companies-box grid-center"><i>Ahref</i></div>
+      <div class="companies-box grid-center"><i>Ahrefs</i></div>
       <div class="companies-box grid-center"><i>Canva</i></div>
       <div class="companies-box grid-center"><i>Wix</i></div>
       <div class="companies-box grid-center"><i>Github</i></div>
@@ -314,9 +314,9 @@
   <!-- -----collaboration ---- -->
   <!-- ------------------------ -->
 
-  <section class="collaboration padding">
+  <section class="collaboration section-padding">
     <div class="collaboration-container grid grid-2">
-      <div class="collaboration-container-left flex-center-bet padding">
+      <div class="collaboration-container-left flex-center-bet section-padding">
         <p>SMART DIGITAL TEAMS</p>
         <h3 class="sub-heading">
           Extend your team with designers and developers
@@ -329,7 +329,7 @@
           <a href="mailto:info@pksolutions.org">Get in Touch</a>
         </button>
       </div>
-      <div class="collaboration-container-left flex-center-bet collaboration-container-right padding">
+      <div class="collaboration-container-left flex-center-bet collaboration-container-right section-padding">
         <p>AGENCY PARTNERSHIP</p>
         <h3 class="sub-heading">
           Let us help you to deliver your next project
@@ -349,7 +349,7 @@
   <!-- -----Sub Footer here---- -->
   <!-- ------------------------ -->
 
-  <section class="sub-footer padding" id="contact">
+  <section class="sub-footer section-padding" id="contact">
     <div class="sub-footer-grid grid">
       <div class="sub-footer-grid-left">
         <h2>Let’s talk about your next <span>business challenge</span></h2>
