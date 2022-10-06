@@ -6,7 +6,6 @@
   text-decoration: none;
   text-decoration: none;
   list-style: none;
-  color: #1a2d43;
   font-family: "Roboto Slab", serif;
 }
 
@@ -31,6 +30,7 @@ html {
   --gray: #ccc;
   --light-background-white: #f7f7fb;
   --text-color: #1b2d42;
+  --color-global: #1a2d43;
 }
 
 body {

@@ -162,14 +162,12 @@ header {
   padding: var(--section-padding);
   text-align: center;
 }
+.service-section > h2 {
+  color: var(--text-color);
+}
 
 .service-section > p {
   color: #1a2d43;
-  font-size: 18px;
-  width: 50%;
-  margin: 15px auto;
-  font-weight: 600;
-  margin-bottom: 5%;
 }
 /* service section end */
 
@@ -206,7 +204,7 @@ header {
   color: #00000067;
 }
 .service-child:hover {
-  background-color: var(--primary-violet);
+  background-color: var(--primary-blue);
 }
 .service-child:hover > p {
   color: var(--white);
@@ -224,6 +222,7 @@ header {
 
 .portfolio-container > h2 {
   text-align: center;
+  color: var(--text-color);
 }
 
 .work-1 {
@@ -243,7 +242,6 @@ header {
 }
 .work-1-content > p {
   margin: 7% 0;
-  font-size: 16px;
 }
 
 .tags {
