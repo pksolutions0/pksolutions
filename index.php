@@ -357,7 +357,7 @@
       </div>
       <div class="sub-footer-grid-right grid-center">
         <button class="basic-button">
-          <a href="mailto:info@pksolutions.org">fake@email.com</a>
+          <a href="mailto:info@pksolutions.org">CONNECT WITH US</a>
         </button>
       </div>
     </div>
