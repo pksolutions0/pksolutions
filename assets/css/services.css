@@ -3,7 +3,6 @@
 /* services */
 .services {
   background-color: #080f20;
-  
 }
 .section_title p {
   color: #ff007b;
@@ -41,6 +40,7 @@
   flex-direction: column;
   padding: 20px;
   width: 100%;
+  height: 185px;
   border-radius: 10px;
   background-color: white;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);

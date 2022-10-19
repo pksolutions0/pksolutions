@@ -41,6 +41,7 @@ a:hover {
 .why .section-head p,
 p.awesome_line {
   color: #818181;
+  width: 100%;
 }
 
 .why .item {
