@@ -33,7 +33,7 @@
   </section>
 
   <!-- ------------------------ -->
-  <!-- -----Landing section -->
+  <!-- ----- New Landing section -->
   <!-- ------------------------ -->
   <section class="landing-section">
     <header id="header" class="width-100 flex-center-bet">
