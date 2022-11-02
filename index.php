@@ -377,7 +377,7 @@
       Copyright © 2022, PK Solutions - All Rights Reserved.
     </div>
     <div class="footer-strip">
-      <a href="tel:+919871573232">
+      <a href="tel:+9140195882">
         <ion-icon name="call-sharp"></ion-icon>
       </a>
       <a href="mailto:info@pksolutions.org">
