@@ -505,8 +505,14 @@ header {
     font-size: 22px;
     margin-bottom: 5%;
   }
-  .footer-strip {
+  .footer-span-none-md {
     display: none;
+  }
+  .width-mb-60 {
+    width: 60%;
+  }
+  .width-mb-40 {
+    width: 40%;
   }
   .tags-box.flex {
     display: grid;

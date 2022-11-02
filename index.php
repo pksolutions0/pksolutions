@@ -370,13 +370,13 @@
   <footer class="footer flex-center-bet">
     <div class="footer-logo-container flex">
       <a href="mailto:info@pksolutions.org">
-        <span>PK</span>
+        <span class="footer-span-none-md">PK</span>
       </a>
     </div>
-    <div class="footer-strip">
+    <div class=" footer-strip width-mb-60">
       Copyright © 2022, PK Solutions - All Rights Reserved.
     </div>
-    <div class="footer-strip">
+    <div class="footer-strip width-mb-40">
       <a href="tel:+9140195882">
         <ion-icon name="call-sharp"></ion-icon>
       </a>
