@@ -82,7 +82,7 @@
       <p class="landing-container-last-p">
         Based in Texas, with clients all over the world
       </p>
-      <button class="basic-button"><a href="#">Connect with us</a></button>
+      <button class="basic-button" style="font-size:18px;"><a href="tel:9598110978">+91-959-811-0978</a></button>
     </div>
   </section>
 
