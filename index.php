@@ -82,7 +82,7 @@
       <p class="landing-container-last-p">
         Based in Texas, with clients all over the world
       </p>
-      <button class="basic-button" style="font-size:18px;"><a href="tel:9598110978">+91-959-811-0978</a></button>
+      <button class="basic-button" style="font-size:18px;"><a href="tel:9598110978">+91 9598110978</a></button>
     </div>
   </section>
 
@@ -377,7 +377,7 @@
       Copyright © 2022, PK Solutions - All Rights Reserved.
     </div>
     <div class="footer-strip width-mb-40">
-      <a href="tel:+9140195882">
+      <a href="tel:9598110978">
         <ion-icon name="call-sharp"></ion-icon>
       </a>
       <a href="mailto:info@pksolutions.org">
